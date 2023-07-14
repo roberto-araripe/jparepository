@@ -1,8 +1,6 @@
-# Hello there!
+# JPA persistence!
 
-Um pequeno exemplo de funcionalidade do JPA. 
-
-![APM](https://img.shields.io/apm/l/demo)
+Um bom exemplo de funcionalidade do JPA. 
 
 Implementação de busca por id, nome e salário através dos QueryMethods, demonstrando a objetividade e praticidade da interface JPA.
   
